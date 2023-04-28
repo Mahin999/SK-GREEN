@@ -139,7 +139,7 @@ def banner():
    Y8.   .88  88     88 88     88  d8'          88       
     Y88888P'  dP     dP 88     88  Y8888888P    dP  {asu}404{P}     
 {asu}---------------------------------------------------{P}
- Author    {M}:\033[1;37m Nil Ahmed  
+ Author    {M}:\033[1;37m SK MAHIN99935  
  Github    {M}:\033[1;37m MR-CRAZY-404-XD
  Facebook  {M}:\033[1;37m MR.CRAZY.404.XD
  Tool Name {M}:{N} CRAZY-GREEN{P}
